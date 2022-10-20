@@ -37,7 +37,7 @@ quiz ={
     },
     "question 10":{
         "question" :"What can one catch that is not thrown?\n(a) A cold\n(b) Epilepsy\n(c) Disk\n(d) Feelings\n\n",
-        "answer": "a`"
+        "answer": "a"
     },
 
 }
